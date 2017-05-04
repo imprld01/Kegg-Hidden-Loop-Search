@@ -8,6 +8,6 @@ Thanks a lot! ☺️
 
 [Here](https://goo.gl/IT45ib) you can find the archive file for this project.
 
-# Customization
+# Library Document
 
 [Here](https://goo.gl/B8amn6) you can find the java document for *Feedback_Loop_Search.jar*.
