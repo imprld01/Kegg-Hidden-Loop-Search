@@ -16,7 +16,7 @@ public class ExecutionMain {
 		//NodeNameRetrievalMain.main(null);
 		System.out.println("===================================");
 		System.out.println("(4) Kgi Constructing");
-		//PreProcess.main(null);
+		PreProcess.main(null);
 		System.out.println("===================================");
 		System.out.println("(5) Keyword Filtering");
 		//KeyFilter.main(null);
