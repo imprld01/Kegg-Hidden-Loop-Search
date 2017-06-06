@@ -15,8 +15,15 @@ If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il
 
 Thanks a lot! ☺️
 
-# Archive File
+# KGI
 
+The searching is based on KGI, which is an integrated database on kegg database.
+
+* Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately (retrieved at 2017/05/07)
+  * species: **ko**(KEGG Orthology)
+  * place KGI in specific directory(~/Database/Kgml_Information/ko/)
+
+# Archive File
 
 * [Here](https://goo.gl/IT45ib) you can find the archive file for this project.
 * [Here](https://goo.gl/Hkso37) you can find the content directly in the archive file.
