@@ -6,7 +6,8 @@ Thanks a lot! ☺️
 
 # Archive File
 
-[Here](https://goo.gl/IT45ib) you can find the archive file for this project.
+* [Here](https://goo.gl/IT45ib) you can find the archive file for this project.
+* [Here](https://goo.gl/Hkso37) you can find the content directly in the archive file.
 
 # Library Document
 
