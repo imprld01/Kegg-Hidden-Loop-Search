@@ -5,7 +5,7 @@ are not completely revealed for most of biological pathway database.
 Hence, we hope to construct a program that can find the hidden loops back.
 
 This project is an example about how to use the library, Feedback_Loop_Search.jar.  
-Of course, you can use the lib to write your own program, according to your needs.  
+Hoping this can help you using lib to write your own program, according to your needs.  
 The program applied kegg database as the main resource for searching hidden loops.
 
 If you are interested in the methodology of searching hidden loops on kegg database.  
