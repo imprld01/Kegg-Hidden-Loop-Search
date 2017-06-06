@@ -19,7 +19,8 @@ Thanks a lot! ☺️
 
 The searching is based on KGI, which is an integrated database on kegg database.
 
-* Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately (retrieved at 2017/05/07)
+You can find KGI immediately in this repository under **res** directory.
+  * retrieved on 2017/05/07
   * species: **ko**(KEGG Orthology)
   * place KGI in specific directory(~/Database/Kgml_Information/ko/)
 
