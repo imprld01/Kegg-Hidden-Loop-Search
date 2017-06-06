@@ -19,7 +19,7 @@ Thanks a lot! ☺️
 
 The searching is based on KGI, which is an integrated database on kegg database.
 
-You can find KGI immediately in this repository under **res** directory.
+* You can find KGI immediately in this repository under **res** directory.
   * retrieved on 2017/05/07
   * species: **ko**(KEGG Orthology)
   * place KGI in specific directory(~/Database/Kgml_Information/ko/)
