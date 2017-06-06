@@ -1,10 +1,22 @@
 # Kegg-Hidden-Loop-Search
 
-If there is any problem, you can send email to [me](mailto:sbw2319@gmail.com). 
+Hidden regulatory relationship for a loop on gene regulation networks  
+are not completely revealed for most of biological pathway database.  
+Hence, we hope to construct a program that can find the hidden loops back.
+
+This project is an example about how to use the library, Feedback_Loop_Search.jar.  
+Of course, you can use the lib to write your own program, according to your needs.  
+The program applied kegg database as the main resource for searching hidden loops.
+
+If you are interested in the methodology of searching hidden loops on kegg database.  
+[Here]() you can find the document about the methodology.
+
+If there is any problem, you can send email to [me](mailto:sbw2319@gmail.com).
 
 Thanks a lot! ☺️
 
 # Archive File
+
 
 * [Here](https://goo.gl/IT45ib) you can find the archive file for this project.
 * [Here](https://goo.gl/Hkso37) you can find the content directly in the archive file.
