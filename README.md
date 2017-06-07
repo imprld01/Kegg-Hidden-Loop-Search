@@ -11,7 +11,9 @@ The program applied kegg database as the main resource for searching hidden loop
 If you are interested in the methodology of searching hidden loops on kegg database.  
 [Here]() you can find the document about the methodology.
 
-If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D).
+If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D),  
+or you can go [here](https://sayat.me/tosbw2319) to leave an anonymous message.
+If you use the anonymous system, you should tell me which repository you are talking about.
 
 Thanks a lot! ☺️
 
