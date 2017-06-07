@@ -19,7 +19,7 @@ Thanks a lot! ☺️
 
 # KGI
 
-The searching is based on KGI, which is an integrated data structure parsed from kegg database in specific species.
+The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
 
 * Find KGI immediately in this repository under **res** directory
   * retrieved on 2017/05/07
