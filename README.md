@@ -19,12 +19,12 @@ Thanks a lot! ☺️
 
 # KGI
 
-The searching is based on KGI, which is an integrated database on kegg database.
+The searching is based on KGI, which is an integrated data structure on kegg database.
 
 * Find KGI immediately in this repository under **res** directory
   * retrieved on 2017/05/07
   * species: **ko**(KEGG Orthology)
-  * place KGI in specific directory(~/Database/Kgml_Information/ko/)
+  * place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/ko/
 
 # Archive File
 
