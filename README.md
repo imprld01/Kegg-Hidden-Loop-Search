@@ -22,7 +22,7 @@ Thanks a lot! ☺️
 The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
 
 * Find KGI immediately in this repository under **res** directory
-  * retrieved on 2017/05/07
+  * retrieved on 2017/05/07 from KEGG
   * species: **ko**(KEGG Orthology)
   * place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/ko/
 
