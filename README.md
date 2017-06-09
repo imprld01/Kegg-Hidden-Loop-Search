@@ -25,13 +25,13 @@ The searching is based on KGI, an integrated data structure parsed from kegg dat
   * **KEGG Orthology**
     1. find the KGI file [here]()
     2. retrieved on 2017/05/07 from KEGG
-    3. Org Code: **ko**
-    4. place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/ko/
+    3. Org Code: *ko*
+    4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/ko/
   * **Danio rerio (zebrafish)**
     1. find the KGI file [here]()
     2. retrieved on 2017/06/09 from KEGG
-    3. Org Code: **dre**
-    4. place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/dre/
+    3. Org Code: *dre*
+    4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/dre/
 
 # Archive File
 
