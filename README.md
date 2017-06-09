@@ -4,16 +4,17 @@ Hidden regulatory relationship for a loop on gene regulation networks
 are not completely revealed for most of biological pathway database.  
 Hence, we hope to construct a program that can find the hidden loops back.
 
-This project is an example about how to use the library, Feedback_Loop_Search.jar.  
-Hoping this can help you using lib to write your own program, according to your needs.  
-The program applied kegg database as the main resource for searching hidden loops.
+This project is an example to use the library, Feedback_Loop_Search.jar, on searching kegg hidden loop.  
+In repository, you can find many main files, representing each stage in a complete searching experiment.  
+You can read ExecutionMain.java to know more about the process of the experiment.  
+The library applies kegg database as the main resource for searching hidden loops.  
+Hoping this can help you using library to write your own program, according to your needs.
 
-If you are interested in the methodology of searching hidden loops on kegg database.  
-[Here]() you can find the document about the methodology.
+If wanting to search hidden loops on kegg database instantly, you can find the program [below](https://goo.gl/DfRmzj).  
+If interested in the methodology of searching hidden loops on kegg database, you can find doc [here]().
 
-If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D),  
-or you can go [here](https://sayat.me/tosbw2319) to leave an anonymous message to me.  
-If you use the anonymous system, you should tell me which repository you are talking about.
+If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D), or go [here](https://sayat.me/tosbw2319) to leave an anonymous message to me.  
+If using the anonymous system, you should tell me which repository you are talking about.
 
 Thanks a lot! ☺️
 
