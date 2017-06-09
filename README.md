@@ -13,7 +13,7 @@ Hoping this can help you using library to write your own program, according to y
 If wanting to search hidden loops on kegg database instantly, you can find archive file [below](https://goo.gl/DfRmzj).  
 If interested in the methodology of searching hidden loops on kegg database, you can find doc [here]().
 
-If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D), or go [here](https://sayat.me/tosbw2319) to leave an anonymous message to me.  
+If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D), or leave an anonymous message [here](https://sayat.me/tosbw2319).  
 If using the anonymous system, you should tell me which repository you are talking about.
 
 Thanks a lot! ☺️
