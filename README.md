@@ -30,7 +30,7 @@ The searching is based on KGI, an integrated data structure parsed from kegg dat
   * **Danio rerio (zebrafish)**
     1. find the KGI file [here](https://goo.gl/Y57ulx)
     2. retrieved on 2017/06/09 from KEGG
-    3. Org Code: *dre*
+    3. Org Code: [*dre*](http://www.genome.jp/kegg-bin/show_organism?org=dre)
     4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/dre/
 
 # Archive File
