@@ -21,7 +21,7 @@ Thanks a lot! ☺️
 
 The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
 
-* Find KGI immediately in this repository under **res** directory
+* Find the KGI file immediately under **res** directory on this repository
   * **KEGG Orthology**
     1. find the KGI file [here](https://goo.gl/ldhIra)
     2. retrieved on 2017/05/07 from KEGG
