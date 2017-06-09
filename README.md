@@ -10,7 +10,7 @@ You can read ExecutionMain.java to know more about the process of the experiment
 The library applies kegg database as the main resource for searching hidden loops.  
 Hoping this can help you using library to write your own program, according to your needs.
 
-If wanting to search hidden loops on kegg database instantly, you can find the program [below](https://goo.gl/DfRmzj).  
+If wanting to search hidden loops on kegg database instantly, you can find archive file [below](https://goo.gl/DfRmzj).  
 If interested in the methodology of searching hidden loops on kegg database, you can find doc [here]().
 
 If there is any problem, you can send email to [me](mailto:sbw%32%3319@g%6D%61il.%63%6F%6D), or go [here](https://sayat.me/tosbw2319) to leave an anonymous message to me.  
