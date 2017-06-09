@@ -42,7 +42,7 @@ The searching is based on KGI, an integrated data structure parsed from [kegg](h
 
 * [Here](https://goo.gl/IT45ib) you can find the archive file for this project
 * [Here](https://goo.gl/Hkso37) you can find what is inside the archive file
-  * [Here](https://goo.gl/MvgANe) you can find the user guide
+  * [Here](https://goo.gl/PMFctb) you can find the user guide
 
 # Library Document
 
