@@ -2,7 +2,7 @@
 
 Hidden regulatory relationship for a loop on gene regulation networks  
 are not completely revealed for most of biological pathway database.  
-Hence, we hope to construct a program that can find the hidden loops back.
+Hence, we hope to write a program that can find the hidden loops back.
 
 This project is an example to use the library, Feedback_Loop_Search.jar, on searching kegg hidden loop.  
 In repository, you can find many main files, representing each stage in a complete searching experiment.  
