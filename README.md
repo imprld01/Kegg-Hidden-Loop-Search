@@ -19,17 +19,17 @@ Thanks a lot! ☺️
 
 # KGI
 
-The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
+The searching is based on KGI, an integrated data structure parsed from [kegg](http://www.kegg.jp) database in specific species.
 
 * Find the KGI file immediately under **res** directory on this repository
   * **KEGG Orthology**
     1. find the KGI file [here](https://goo.gl/ldhIra)
-    2. retrieved on 2017/05/07 from KEGG
+    2. retrieved on 2017/05/07 from [KEGG](http://www.kegg.jp)
     3. Org Code: *ko*
     4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/ko/
   * **Danio rerio (zebrafish)**
     1. find the KGI file [here](https://goo.gl/Y57ulx)
-    2. retrieved on 2017/06/09 from KEGG
+    2. retrieved on 2017/06/09 from [KEGG](http://www.kegg.jp)
     3. Org Code: [*dre*](http://www.genome.jp/kegg-bin/show_organism?org=dre)
     4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/dre/
 
