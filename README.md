@@ -32,6 +32,11 @@ The searching is based on KGI, an integrated data structure parsed from [kegg](h
     2. retrieved on 2017/06/09 from [KEGG](http://www.kegg.jp)
     3. Org Code: [*dre*](http://www.genome.jp/kegg-bin/show_organism?org=dre)
     4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/dre/
+  * **Homo sapiens (human)**
+    1. find the KGI file [here]()
+    2. retrieved on 2017/06/09 from [KEGG](http://www.kegg.jp)
+    3. Org Code: [*hsa*](http://www.genome.jp/kegg-bin/show_organism?org=hsa)
+    4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/hsa/
 
 # Archive File
 
