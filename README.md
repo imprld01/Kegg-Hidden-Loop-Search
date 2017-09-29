@@ -18,6 +18,12 @@ If using the anonymous system, you should tell me which repository you are talki
 
 Thanks a lot! ☺️
 
+# Development Environment
+
+* Eclipse
+* Java Development Kit
+* under windows 10 32-bit OS
+
 # KGI
 
 The searching is based on KGI, an integrated data structure parsed from [kegg](http://www.kegg.jp) database in specific species.
