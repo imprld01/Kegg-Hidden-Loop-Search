@@ -1,5 +1,7 @@
 # Kegg-Hidden-Loop-Search
 
+[![Javadoc](https://img.shields.io/badge/docs-javadoc-blue.svg)](https://goo.gl/B8amn6)
+
 Hidden regulatory relationship for a loop on gene regulation networks  
 are not completely revealed for most of biological pathway database.  
 Hence, we hope to write a program that can find the hidden loops back.
